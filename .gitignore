@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables - DO NOT COMMIT
+.env
+
+# Generated data, logs, and temp files
+Data/
+Frontend/Files/
+
+# Webdriver executables
+chromedriver.exe
