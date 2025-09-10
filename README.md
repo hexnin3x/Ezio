@@ -44,7 +44,7 @@ AppOpener → Application control
 Clone the repository:
 
 bash
-git clone https://github.com/sjlhexa-jpg/Ezio-A-Jarvis-Inspired-AI-Voice-Assistant
+git clone https://github.com/hexnin3x/Ezio
 cd jarvis-ai
 Set up a virtual environment:
 
